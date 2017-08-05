@@ -1,0 +1,6 @@
+{
+  "defaultProfileName": "Default",
+  "rules": [
+    {"targetName": "ターミナル", "profileName": "Caps2Control"}
+  ]
+}
